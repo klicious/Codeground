@@ -1,0 +1,2 @@
+eclipse.preferences.version=1
+prefWatchExpressions=<?xml version\="1.0" encoding\="UTF-8" standalone\="no"?>\r\n<watchExpressions>\r\n<expression enabled\="true" text\="atX"/>\r\n<expression enabled\="true" text\="atY"/>\r\n<expression enabled\="true" text\="fromX"/>\r\n<expression enabled\="true" text\="fromY"/>\r\n<expression enabled\="true" text\="laserIn"/>\r\n<expression enabled\="true" text\="x"/>\r\n<expression enabled\="true" text\="y"/>\r\n<expression enabled\="true" text\="hit"/>\r\n</watchExpressions>\r\n
